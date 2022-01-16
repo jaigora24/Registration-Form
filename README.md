@@ -1,10 +1,10 @@
 # Registration Form
 A Registration Form using Java Swing with database connectivity.
 
-Tech Used : Java, Swing GUI, JDBC
-Database : MySQL
-Software : Eclipse
-Server : xampp, phpmyadmin
+Tech Used : Java, Swing GUI, JDBC<br>
+Database : MySQL<br>
+Software : Eclipse<br>
+Server : xampp, phpmyadmin<br>
 
 ## How to run this project?
 
