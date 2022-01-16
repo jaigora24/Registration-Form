@@ -11,7 +11,7 @@ Server : xampp, phpmyadmin
 **Step 1 :** Copy the repo URL by clicking on clone or download.<br>
 <img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/1.PNG" alt="clone" width="90%" height="400"><br><br>
 **Step 2 :**  Go to "File" and then select "Import" in Eclipse IDE<br><br>
-<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/2.png" alt="file-import" width="40%" height="400"><br><br>
+<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/2.png" alt="file-import" width="35%" height="400"><br><br>
 **Step 3 :** Select "Projects from Git (with smart import)<br><br>
 <img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/3.PNG" alt="project-with-git" width="70%" height="500"><br><br>
 *Step 4 :* Select "Clone URI" & then next<br><br>
