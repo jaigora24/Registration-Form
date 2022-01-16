@@ -18,4 +18,4 @@ Server : xampp, phpmyadmin
 *Step 8 :* Now you can run the project<br>
 
 ## Software Output
-<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/output.PNG" alt="Output" width="80%" height="300">
+<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/output.PNG" alt="Output" width="70%" height="150">
