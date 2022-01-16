@@ -18,4 +18,4 @@ Server : xampp, phpmyadmin
 *Step 8 :* Now you can run the project<br>
 
 ## Software Output
-<img src="Registration Form/outputs/1.PNG" alt="Output" width="80%" height="300">
+<img src="Registration Form/outputs/output.PNG" alt="Output" width="80%" height="300">
