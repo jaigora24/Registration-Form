@@ -9,7 +9,7 @@ Server : xampp, phpmyadmin
 ## How to run this project?
 
 *Step 1 :* Copy the repo URL by clicking on clone or download.<br>
-<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/1.PNG" alt="clone" width="70%" height="400">
+<img src="https://github.com/jaigora24/Registration-Form/blob/main/Registration%20Form/outputs/1.PNG" alt="clone" width="90%" height="400"><br>
 *Step 2 :* Open Eclipse IDE<br>
 *Step 3 :* Go to "File" and then select "Import"<br>
 *Step 4 :* Select "Projects from Git (with smart import)<br>
