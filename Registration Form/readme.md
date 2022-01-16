@@ -10,4 +10,12 @@ Server : xampp, phpmyadmin
 
 *Step 1 :* Copy the repo URL by clicking on clone or download.<br>
 *Step 2 :* Open Eclipse IDE<br>
-*Step 3 :* 
+*Step 3 :* Go to "File" and then select "Import"<br>
+*Step 4 :* Select "Projects from Git (with smart import)<br>
+*Step 5 :* Select "Clone URI" & then next<br>
+*Step 6 :* Paste the repo URL & then next & then finish<br>
+*Step 7 :* Restart the Eclipse IDE<br>
+*Step 8 :* Now you can run the project<br>
+
+## Software Output
+
